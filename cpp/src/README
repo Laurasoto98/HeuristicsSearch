@@ -1,0 +1,8 @@
+
+1. First compile with "make".
+
+2. Run "./search", the environment and paths are written to some files.
+
+3. The script "./draw.sh" uses gnuplot to show the results.
+   You can also use "./drawToPs.sh" to create a postscript file.
+
